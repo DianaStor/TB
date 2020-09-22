@@ -1,0 +1,52 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    font-family: 'Russo One', sans-serif;
+    background: url(luis-quintero-aoz8a7jO0QI-unsplash.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* .buffer1 {
+    height: 2px;
+} */
+
+h1 {
+    font-size: 4rem;
+    color: #577ea5;
+}
+.title {
+    color: #1d4872
+}
+
+.buffer2 {
+    height: 25rem;
+}
+
+hr {
+    border-color: #da6213;
+    border-width: 3px;
+    max-width: 90px;
+}
+
+.btn-primary {
+    background-color: #f57017;
+    border: 1px solid #f57017;
+}
+
+.btn-primary:hover {
+    background-color: #da6213;
+    border: 1px solid #da6213;
+    border-width: 4px;
+}
+
+.btn-xl {
+    padding: 0.75rem 1rem;
+    border-radius: 50px;
+    content: 1rem;
+    text-transform: uppercase;
+    font-weight: lighter;
+}
+
